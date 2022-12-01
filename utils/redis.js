@@ -10,6 +10,3 @@ const start = async()=>{
 start()
 
 
-// sdgsgsd
-// dsfdgsdgdsg
-
